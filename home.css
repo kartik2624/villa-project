@@ -169,8 +169,8 @@
     position: absolute;
     z-index: 1;
     width: 100vh;
-    top: 160%;
-    left: -40%;
+    top: 135%;
+    left: -60%;
     border-radius: 5px;
 }
 .vi-view > i {
